@@ -1,8 +1,0 @@
-{
-  "compilerOptions": {
-    "module": "es2015",
-    "target": "ES5",
-    "outDir": "build",
-    "rootDir": "src"
-  }
-}
