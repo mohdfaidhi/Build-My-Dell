@@ -1,0 +1,48 @@
+button {
+    background-color: rgba(91, 89, 96);
+    border-radius: 12px;
+    border-style: outset;
+    border-color: rgba(140, 128, 124);
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    font-weight: bold;
+    white-space: nowrap;
+    color: rgb(223, 223, 223);
+    outline: none;
+    cursor: pointer;
+}
+
+img {
+    max-height: 600px;
+    max-width: 600px;
+    margin: 10px;
+    vertical-align: middle;
+    border-style: outset;
+}
+
+#home-button {
+    position: fixed;
+    text-align: right;
+    top: 70px;
+    right: 50px;
+    z-index: 100;
+}
+
+#profile-page-title {
+    position: fixed;
+    text-align: left;
+    top: 50px;
+    left: 50px;
+    z-index: 100;
+}
+
+#photo-gallery-title {
+    background-color: white;
+    position: fixed;
+    text-align: center;
+    width: 100%;
+    top: 170px;
+    left: 0;
+    z-index: 50;
+}
